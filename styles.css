@@ -6,7 +6,6 @@ p {
 }
 
 h1 {
-    font-family: Verdana, sans-serif;
     font-size: 1.7rem;
 
 
@@ -17,6 +16,7 @@ body {
     background-color: rgb(11, 184, 241);
 
     max-width: 700px;
+    font-family: Verdana, sans-serif;
 }
 
 p,
